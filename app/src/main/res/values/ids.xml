@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rvUser" type="id"/>
+    <item name="user_image" type="id"/>
+    <item name="user_name" type="id"/>
+    <item name="user_age" type="id"/>
+    <item name="user_location" type="id"/>
+</resources>
